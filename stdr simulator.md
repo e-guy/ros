@@ -1,0 +1,3 @@
+roslaunch stdr_launchers server_with_map_and_gui_plus_robot.launch
+
+rosrun teleop_twist_keyboard teleop_twist_keyboard.py
